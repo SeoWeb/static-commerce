@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[745],{9745:function(n,t,e){e.r(t),e.d(t,{default:function(){return FavoriteContent}});var r=e(7437);function FavoriteContent(){return(0,r.jsx)("div",{children:"Content"})}}}]);

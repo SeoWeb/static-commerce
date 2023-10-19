@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[896],{5896:function(n,t,c){c.r(t),c.d(t,{default:function(){return AccountContent}});var u=c(7437);function AccountContent(){return(0,u.jsx)("div",{children:"Account"})}}}]);
