@@ -1,5 +1,5 @@
 1:HL["/_next/static/css/81b44dd5b2a80390.css","style",{"crossOrigin":""}]
-0:["Ahrydt4pcUz2pP96sncCZ",[[["",{"children":[["slug","et/ettevottest","c"],{"children":["__PAGE__?{\"slug\":[\"et\",\"ettevottest\"]}",{}]}]},"$undefined","$undefined",true],"$L2",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/81b44dd5b2a80390.css","precedence":"next","crossOrigin":""}]],"$L3"]]]]
+0:["uG8PI8FTjHDjlVlbggBTd",[[["",{"children":[["slug","et/ettevottest","c"],{"children":["__PAGE__?{\"slug\":[\"et\",\"ettevottest\"]}",{}]}]},"$undefined","$undefined",true],"$L2",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/81b44dd5b2a80390.css","precedence":"next","crossOrigin":""}]],"$L3"]]]]
 4:HL["/_next/static/media/c9a5bc6a7c948fb0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 5:HL["/_next/static/css/655e40cbf920c3c0.css","style",{"crossOrigin":""}]
 2:[null,"$L6",null]
