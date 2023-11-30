@@ -1,5 +1,5 @@
 1:HL["/_next/static/css/aa21baf08e0cab89.css","style",{"crossOrigin":""}]
-0:["LprX_AibzmyRs8To7bZMY",[[["",{"children":[["slug","about","c"],{"children":["__PAGE__?{\"slug\":[\"about\"]}",{}]}]},"$undefined","$undefined",true],"$L2",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/aa21baf08e0cab89.css","precedence":"next","crossOrigin":""}]],"$L3"]]]]
+0:["Sc97b0TWjjSawO9X-cY_Y",[[["",{"children":[["slug","about","c"],{"children":["__PAGE__?{\"slug\":[\"about\"]}",{}]}]},"$undefined","$undefined",true],"$L2",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/aa21baf08e0cab89.css","precedence":"next","crossOrigin":""}]],"$L3"]]]]
 4:HL["/_next/static/media/c9a5bc6a7c948fb0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 5:HL["/_next/static/css/630765999a813f39.css","style",{"crossOrigin":""}]
 2:[null,"$L6",null]
