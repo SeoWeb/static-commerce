@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[795],{9795:function(n,u,e){e.r(u),e.d(u,{default:function(){return t}});var r=e(7437);function t(){return(0,r.jsx)("div",{children:"Cart"})}}}]);

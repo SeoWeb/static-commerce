@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[289],{5289:function(e,n,t){t.r(n);var a=t(7437),u=t(8594),l=t(2265),s=t(8910);n.default=(0,l.memo)(function(){let e=(0,u.H)(e=>e.openModal);return(0,a.jsx)("button",{className:"p-2",onClick:()=>{e("language")},title:"Language",children:(0,a.jsx)(s.mp2,{fontSize:"1.5rem"})})})}}]);
