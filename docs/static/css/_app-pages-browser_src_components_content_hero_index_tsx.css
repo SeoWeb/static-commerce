@@ -1,0 +1,39 @@
+/*!*****************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[12].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[12].oneOf[7].use[3]!./src/components/content/hero/styles.module.css ***!
+  \*****************************************************************************************************************************************************************************************************************************************************************************************/
+.styles_style1__zKAh5,
+.styles_style2__BExUl {
+  padding: 60px 16px;
+}
+.styles_style1__zKAh5 .styles_contentWrapper__jUG5F,
+.styles_style2__BExUl .styles_contentWrapper__jUG5F {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  justify-content: center;
+  margin-bottom: 1.25rem;
+
+  @media (min-width: 1024px) {
+    padding-right: 2.5rem;
+  }
+}
+.styles_style1__zKAh5 .styles_title__KtIsc,
+.styles_style2__BExUl .styles_title__KtIsc {
+    margin-bottom: 4rem;
+}
+.styles_style1__zKAh5 .styles_subtitle__D7B6q,
+.styles_style2__BExUl .styles_subtitle__D7B6q {
+    margin-bottom: 1rem;
+}
+.styles_style1__zKAh5 .styles_description__tqeYb,
+.styles_style2__BExUl .styles_description__tqeYb {
+    margin-bottom: 3rem;
+}
+
+.styles_style1__zKAh5 .styles_title__KtIsc {
+    color: #9F580A;
+}
+
+.styles_style2__BExUl .styles_subtitle__D7B6q {
+    color: #C27803;
+}
