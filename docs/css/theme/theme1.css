@@ -1,0 +1,35 @@
+body {
+  --sw-primary-bg: #fff;
+  --sw-primary-dark-bg: rgb(22, 27, 34);
+
+  --sw-primary-button-bg: #000;
+  --sw-primary-dark-button-bg: #000;
+  --sw-primary-button-text: #fff;
+  --sw-primary-dark-button-text: #fff;
+
+  --sw-primary-link-bg: transparent;
+  --sw-primary-link-bg-hover: rgb(55 65 81);
+  --sw-primary-link-bg-active: #000;
+  --sw-primary-dark-link-bg: transparent;
+  --sw-primary-dark-link-bg-hover: rgb(156 163 175);
+  --sw-primary-dark-link-bg-active: #fff;
+  --sw-primary-link-text: #000;
+  --sw-primary-link-text-hover: #fff;
+  --sw-primary-link-text-active: #fff;
+  --sw-primary-dark-link-text: #fff;
+  --sw-primary-dark-link-text-hover: #000;
+  --sw-primary-dark-link-text-active: #000;
+
+  --sw-drawer-button-bg: #000;
+  --sw-dark-drawer-button-bg: #000;
+
+  --sw-text-color: #000;
+  --sw-dark-text-color: #fff;
+
+  --sw-modal-bg: #fff;
+  --sw-dark-modal-bg: rgb(55 65 81);
+  --sw-backdrop-bg: rgba(17, 24, 39, 0.5);
+
+  --sw-border-color: #ede5e5;
+  --sw-dark-border-color: #696969;
+}

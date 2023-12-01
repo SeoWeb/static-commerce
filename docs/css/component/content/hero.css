@@ -1,0 +1,38 @@
+.style1 {
+  
+}
+.style2 {
+  padding: 60px 16px;
+}
+.style1 .contentWrapper,
+.style2 .contentWrapper {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  justify-content: center;
+  margin-bottom: 20px;
+
+  @screen lg {
+    padding-right: 40px;
+  }
+}
+.style1 .title,
+.style2 .title {
+    margin-bottom: 64px;
+}
+.style1 .subtitle,
+.style2 .subtitle {
+    margin-bottom: 16px;
+}
+.style1 .description,
+.style2 .description {
+    margin-bottom: 48px;
+}
+
+.style1 .title {
+    color: yellow;
+}
+
+.style2 .subtitle {
+    color: yellow;
+}
